@@ -110,7 +110,6 @@
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
     <None Include="UIAComWrapper.snk" />
-    <None Include="UIAComWrapperX.snk" />
   </ItemGroup>
   <ItemGroup />
   <ItemGroup>
