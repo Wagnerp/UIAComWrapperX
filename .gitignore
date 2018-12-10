@@ -101,3 +101,7 @@ packages
 *.log
 
 Thumbs.db
+.vs/UIAComWrapperX/v15/Server/sqlite3/db.lock
+.vs/UIAComWrapperX/v15/Server/sqlite3/storage.ide
+.vs/UIAComWrapperX/v15/Server/sqlite3/storage.ide-shm
+.vs/UIAComWrapperX/v15/Server/sqlite3/storage.ide-wal
