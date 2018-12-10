@@ -1,4 +1,4 @@
-UIAComWrapper
+UIAComWrapperX
 =============
 
 [![Build status](https://ci.appveyor.com/api/projects/status/oje79eml48u4t5aa/branch/master?svg=true)](https://ci.appveyor.com/project/ivan-danilov/uiacomwrapper/branch/master)
