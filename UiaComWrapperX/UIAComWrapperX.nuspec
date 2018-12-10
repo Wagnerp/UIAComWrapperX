@@ -1,22 +1,22 @@
 <?xml version="1.0"?>
 <package >
   <metadata>
-    <id>UIAComWrapper</id>
+    <id>UIAComWrapperX</id>
     <version>1.1.0.14</version>
-    <title>UIAComWrapper</title>
-    <authors>Michael Bernstein</authors>
+    <title>UIAComWrapperX</title>
+    <authors>Techno Scavenger</authors>
     <owners>Michael Bernstein, Jake Ginnivan</owners>
-    <projectUrl>https://github.com/TestStack/UIAComWrapper</projectUrl>
-    <licenseUrl>https://github.com/TestStack/UIAComWrapper/blob/master/LICENSE.txt</licenseUrl>
+    <projectUrl>https://github.com/technoscavenger/UIAComWrapperX</projectUrl>
+    <licenseUrl>https://github.com/technoscavenger/UIAComWrapperX/blob/master/LICENSE.txt</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>The UI Automation COM-to-.NET Adapter makes it possible to use the new Windows Automation API 3.0 COM interfaces, with their improved reliability and performance, while still using the same System.Windows.Automation classes as in earlier versions of UI Automation</description>
-    <copyright>Copyright Michael Bernstein 2013</copyright>
+    <copyright>Copyright Techno Scavenger 2018</copyright>
     <tags>UIA</tags>
   </metadata>
   <files>
-    <file src="UIAComWrapper.dll" target="lib\net40" />
-    <file src="UIAComWrapper.pdb" target="lib\net40" />
-    <file src="Interop.UIAutomationClient.dll" target="lib\net40" />
+    <file src="UIAComWrapperX.dll" target="lib\net452" />
+    <file src="UIAComWrapperX.pdb" target="lib\net452" />
+    <file src="Interop.UIAutomationClient.dll" target="lib\net452" />
     <file src="install.ps1" target="tools" />
   </files>
 </package>
