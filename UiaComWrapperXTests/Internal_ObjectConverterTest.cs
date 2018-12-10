@@ -2,7 +2,7 @@ using System.Windows.Automation;
 using NUnit.Framework;
 using UIAComWrapperInternal;
 
-namespace UIAComWrapperTests
+namespace UIAComWrapperXTests
 {
     public struct ObjectTestMapping
     {

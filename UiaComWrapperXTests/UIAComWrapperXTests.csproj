@@ -8,8 +8,8 @@
     <ProjectGuid>{5BD04451-8FAC-475A-BD33-6FE2DD59FEE3}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>UIAComWrapperTests</RootNamespace>
-    <AssemblyName>UIAComWrapperTests</AssemblyName>
+    <RootNamespace>UIAComWrapperXTests</RootNamespace>
+    <AssemblyName>UIAComWrapperXTests</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <FileUpgradeFlags>
@@ -110,6 +110,7 @@
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
     <None Include="UIAComWrapper.snk" />
+    <None Include="UIAComWrapperX.snk" />
   </ItemGroup>
   <ItemGroup />
   <ItemGroup>

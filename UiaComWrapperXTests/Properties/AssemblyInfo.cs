@@ -10,12 +10,12 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("UIAComWrapperTests")]
+[assembly: AssemblyTitle("UIAComWrapperXTests")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("UIAComWrapperTests")]
-[assembly: AssemblyCopyright("Copyright ©  2009 Michael Bernstein")]
+[assembly: AssemblyProduct("UIAComWrapperXTests")]
+[assembly: AssemblyCopyright("Copyright ©  2018 Techno Scavenger")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
