@@ -12,7 +12,7 @@ using System.Resources;
 using System.Runtime.InteropServices;
 using System.Runtime.Serialization;
 using System.Security.Permissions;
-using UIAComWrapper;
+using UIAComWrapperX;
 using UIAComWrapperInternal;
 
 namespace System.Windows.Automation
