@@ -8,5 +8,7 @@ The UI Automation COM-to-.NET Adapter makes it possible to use the new Windows A
 
 Changes
 -------
+### v1.1.0.15
+- Update Interop.UIAutomationClient.dll to VS2015
 ### v1.1.0.14 
 - added source indexing with [GitLink](https://github.com/GitTools/GitLink). Makes issue debugging much easier as stepping into UIAComWrapper code in VS automatically downloads proper source code from GitHub.
