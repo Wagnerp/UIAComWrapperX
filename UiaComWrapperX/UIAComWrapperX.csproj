@@ -147,6 +147,7 @@
     </None>
     <None Include="UIAComWrapperX.nuspec">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <SubType>Designer</SubType>
     </None>
     <None Include="UIAComWrapper.snk" />
   </ItemGroup>
