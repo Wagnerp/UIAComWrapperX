@@ -2,7 +2,7 @@
 <package >
   <metadata>
     <id>UIAComWrapperX</id>
-    <version>1.1.0.14</version>
+    <version>1.1.0.15</version>
     <title>UIAComWrapperX</title>
     <authors>Techno Scavenger</authors>
     <owners>Michael Bernstein, Jake Ginnivan</owners>
@@ -10,7 +10,7 @@
     <licenseUrl>https://github.com/technoscavenger/UIAComWrapperX/blob/master/LICENSE.txt</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>The UI Automation COM-to-.NET Adapter makes it possible to use the new Windows Automation API 3.0 COM interfaces, with their improved reliability and performance, while still using the same System.Windows.Automation classes as in earlier versions of UI Automation</description>
-    <copyright>Copyright Techno Scavenger 2018</copyright>
+    <copyright>Copyright Techno Scavenger 2019</copyright>
     <tags>UIA</tags>
   </metadata>
   <files>
